@@ -1,0 +1,10 @@
+E:\C#\thinojosa_inclass04\thinojosa_inclass04\thinojosa_inclass04\bin\Debug\thinojosa_inclass04.exe.config
+E:\C#\thinojosa_inclass04\thinojosa_inclass04\thinojosa_inclass04\bin\Debug\thinojosa_inclass04.exe
+E:\C#\thinojosa_inclass04\thinojosa_inclass04\thinojosa_inclass04\bin\Debug\thinojosa_inclass04.pdb
+E:\C#\thinojosa_inclass04\thinojosa_inclass04\thinojosa_inclass04\obj\Debug\thinojosa_inclass04.csprojAssemblyReference.cache
+E:\C#\thinojosa_inclass04\thinojosa_inclass04\thinojosa_inclass04\obj\Debug\thinojosa_inclass04.Form1.resources
+E:\C#\thinojosa_inclass04\thinojosa_inclass04\thinojosa_inclass04\obj\Debug\thinojosa_inclass04.Properties.Resources.resources
+E:\C#\thinojosa_inclass04\thinojosa_inclass04\thinojosa_inclass04\obj\Debug\thinojosa_inclass04.csproj.GenerateResource.cache
+E:\C#\thinojosa_inclass04\thinojosa_inclass04\thinojosa_inclass04\obj\Debug\thinojosa_inclass04.csproj.CoreCompileInputs.cache
+E:\C#\thinojosa_inclass04\thinojosa_inclass04\thinojosa_inclass04\obj\Debug\thinojosa_inclass04.exe
+E:\C#\thinojosa_inclass04\thinojosa_inclass04\thinojosa_inclass04\obj\Debug\thinojosa_inclass04.pdb
